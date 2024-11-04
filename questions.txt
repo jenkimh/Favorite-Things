@@ -23,4 +23,4 @@ N/A
 tiger
 
 5. What is your favorite programming language? (Hint: You can always say Python!!)
-
+JavaScript
